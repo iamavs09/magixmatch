@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/magixmatch/static/css/main.e02ebf56.css",
+    "main.js": "/magixmatch/static/js/main.253fbc9d.js",
+    "static/media/cover.png": "/magixmatch/static/media/cover.b35cfd2810870e019e99.png",
+    "static/media/shield-1.png": "/magixmatch/static/media/shield-1.a961da9569e66174ca3b.png",
+    "static/media/helmet-1.png": "/magixmatch/static/media/helmet-1.d082cb3c8e66546d8921.png",
+    "static/media/potion-1.png": "/magixmatch/static/media/potion-1.94e34273991220b1f174.png",
+    "static/media/scroll-1.png": "/magixmatch/static/media/scroll-1.135e1c7d24aef8a9cd61.png",
+    "static/media/sword-1.png": "/magixmatch/static/media/sword-1.47dbfbdd3a1e94165050.png",
+    "static/media/ring-1.png": "/magixmatch/static/media/ring-1.4c376e3f983bd42b39d3.png",
+    "index.html": "/magixmatch/index.html",
+    "main.e02ebf56.css.map": "/magixmatch/static/css/main.e02ebf56.css.map",
+    "main.253fbc9d.js.map": "/magixmatch/static/js/main.253fbc9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02ebf56.css",
+    "static/js/main.253fbc9d.js"
+  ]
+}
